@@ -2,8 +2,8 @@
 
 def find(arr, item):
     count = 0
-    for i in arr:
-        if i == item:
+    for k in arr:
+        if k == item:
             return count
         count += 1
     return None
