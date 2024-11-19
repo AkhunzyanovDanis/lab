@@ -1,6 +1,6 @@
 # TODO  Напишите функцию count_letters
 # TODO Напишите функцию calculate_frequency
-def countletters(text):
+def count_letters(text):
     # Словарь для хранения количества букв
     letter_count = {}
 
